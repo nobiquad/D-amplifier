@@ -1,4 +1,4 @@
-# D-amplifier
+# D-amplifier bazujący na TPA3110D2 15-W
 
 <img width="1094" height="818" alt="image" src="https://github.com/user-attachments/assets/470b40f0-ce40-4090-8c03-bb4175081d5f" />
 
